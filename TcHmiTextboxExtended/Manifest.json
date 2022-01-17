@@ -1,6 +1,4 @@
 ﻿{
-  "$schema": ".hmiframework/Schema/Manifest.Schema.json",
-  "apiVersion": 1,
   "modules": [
     {
       "type": "Package",
@@ -20,9 +18,11 @@
   "provideMetadata": {
     "toolbox": {
       "TcHmiTextboxExtended": {
-        "200": "TcHmiTextboxExtended",
-        "1632": "JB: Controls"
+        "1632": "JB: Controls",
+        "200": "TcHmiTextboxExtended"
       }
     }
-  }
+  },
+  "$schema": ".hmiframework/Schema/Manifest.Schema.json",
+  "apiVersion": 1
 }

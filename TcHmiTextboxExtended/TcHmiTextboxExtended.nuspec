@@ -2,20 +2,22 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>JB.TcHmiTextboxExtended</id>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
     <description>Extended TcHmiTextbox control. Passwordfield and .onEnterPressed event.</description>
     <authors>Jack Borelius</authors>
     <title>TcHmiTextboxExtended</title>
     <owners>Jack Borelius</owners>
+    <projectUrl>https://github.com/hijaaack/JB.TcHmiTextboxExtended</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes>Migrated project to TypeScript. Changed Icon and fixed bug with backslashes in the text.</releaseNotes>
+    <releaseNotes>Updated packages to v.752 and added link to github-project.</releaseNotes>
     <copyright>Copyright 2021</copyright>
     <tags>TwinCAT HMI</tags>
     <license type="expression">MIT</license>
     <icon>images/logo.png</icon>
     <dependencies>
       <group targetFramework="native1.12-tchmi">
-        <dependency id="Beckhoff.TwinCAT.HMI.Controls" version="12.748.0" />
+        <dependency id="Beckhoff.TwinCAT.HMI.Controls" version="12.752.0" />
+        <dependency id="Beckhoff.TwinCAT.HMI.Framework" version="12.752.0" />
       </group>
     </dependencies>
   </metadata>

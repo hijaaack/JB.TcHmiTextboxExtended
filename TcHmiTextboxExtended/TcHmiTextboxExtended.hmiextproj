@@ -59,6 +59,9 @@
     <Content Include="Images\logo.png">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="packages.config">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="TcHmiTextboxExtendedControl\Icons\16x16.png">
       <SubType>Content</SubType>
     </Content>
@@ -95,10 +98,6 @@
     <Content Include="TcHmiTextboxExtendedControl\TcHmiTextboxExtendedControl.ts" />
     <Content Include="TcHmiTextboxExtendedControl\Description.json" />
     <Content Include="TcHmiTextboxExtendedControl\Schema\Types.Schema.json" />
-    <Content Include="packages.config">
-      <SubType>Content</SubType>
-      <Visible>true</Visible>
-    </Content>
     <Content Include="packages.xsd">
       <SubType>Content</SubType>
       <Visible>false</Visible>
