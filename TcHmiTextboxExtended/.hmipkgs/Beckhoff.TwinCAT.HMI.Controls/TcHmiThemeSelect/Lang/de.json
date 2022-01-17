@@ -1,0 +1,7 @@
+{
+    "$schema": "../../../TcHmiFramework/Schema/LocalizationDescription.Schema.json",
+    "locale": "de",
+    "localizedText": {
+        "Combobox_Select": "Auswählen"
+    }
+}

@@ -1,0 +1,4 @@
+/* General theme independed control css. */
+.TcHmi_Controls_Beckhoff_TcHmiAdsState {
+    display: block;
+}

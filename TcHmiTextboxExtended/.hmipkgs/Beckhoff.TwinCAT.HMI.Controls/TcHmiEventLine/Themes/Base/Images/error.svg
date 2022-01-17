@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>364268BC-B0EA-4CD6-84BC-2FB789004C39</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-2" x="0" y="0" width="80" height="80"></rect>
+        <filter x="-9.4%" y="-9.4%" width="118.8%" height="118.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/msg/critical">
+            <g id="icon-status" transform="translate(19.000000, 19.000000)" fill="#E30613">
+                <g id="normal">
+                    <path d="M20.9043092,19.5658316 L28.9469915,11.5231493 C29.454673,11.0154678 30.2777875,11.0154678 30.7854691,11.5231493 C31.2931507,12.0308309 31.2931507,12.8539454 30.7854691,13.361627 L22.7427868,21.4043092 L30.7854691,29.4469915 C31.2931507,29.954673 31.2931507,30.7777875 30.7854691,31.2854691 C30.2777875,31.7931507 29.454673,31.7931507 28.9469915,31.2854691 L20.9043092,23.2427868 L12.861627,31.2854691 C12.3539454,31.7931507 11.5308309,31.7931507 11.0231493,31.2854691 C10.5154678,30.7777875 10.5154678,29.954673 11.0231493,29.4469915 L19.0658316,21.4043092 L11.0231493,13.361627 C10.5154678,12.8539454 10.5154678,12.0308309 11.0231493,11.5231493 C11.5308309,11.0154678 12.3539454,11.0154678 12.861627,11.5231493 L20.9043092,19.5658316 Z M21.2007,2 C10.6137,2 1.9997,10.613 1.9997,21.201 C1.9997,31.788 10.6137,40.401 21.2007,40.401 C31.7877,40.401 40.4017,31.788 40.4017,21.201 C40.4017,10.613 31.7877,2 21.2007,2 Z M21.2007,42.401 C9.5107,42.401 -0.0003,32.891 -0.0003,21.201 C-0.0003,9.511 9.5107,-2.48689958e-14 21.2007,-2.48689958e-14 C32.8907,-2.48689958e-14 42.4017,9.511 42.4017,21.201 C42.4017,32.891 32.8907,42.401 21.2007,42.401 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

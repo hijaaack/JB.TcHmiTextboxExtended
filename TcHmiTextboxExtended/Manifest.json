@@ -1,0 +1,28 @@
+﻿{
+  "$schema": ".hmiframework/Schema/Manifest.Schema.json",
+  "apiVersion": 1,
+  "modules": [
+    {
+      "type": "Package",
+      "nugetId": "Beckhoff.TwinCAT.HMI.Framework"
+    },
+    {
+      "type": "Package",
+      "nugetId": "Beckhoff.TwinCAT.HMI.Controls"
+    },
+    {
+      "type": "Control",
+      "basePath": "TcHmiTextboxExtendedControl/",
+      "descriptionFile": "Description.json",
+      "toolboxCategory": "TcHmiTextboxExtended:1632"
+    }
+  ],
+  "provideMetadata": {
+    "toolbox": {
+      "TcHmiTextboxExtended": {
+        "200": "TcHmiTextboxExtended",
+        "1632": "JB: Controls"
+      }
+    }
+  }
+}
